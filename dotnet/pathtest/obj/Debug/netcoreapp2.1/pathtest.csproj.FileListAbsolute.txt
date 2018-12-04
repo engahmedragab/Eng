@@ -1,0 +1,11 @@
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\bin\Debug\netcoreapp2.1\pathtest.deps.json
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\bin\Debug\netcoreapp2.1\pathtest.runtimeconfig.json
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\bin\Debug\netcoreapp2.1\pathtest.runtimeconfig.dev.json
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\bin\Debug\netcoreapp2.1\pathtest.dll
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\bin\Debug\netcoreapp2.1\pathtest.pdb
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\obj\Debug\netcoreapp2.1\pathtest.csprojAssemblyReference.cache
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\obj\Debug\netcoreapp2.1\pathtest.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\obj\Debug\netcoreapp2.1\pathtest.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\obj\Debug\netcoreapp2.1\pathtest.AssemblyInfo.cs
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\obj\Debug\netcoreapp2.1\pathtest.dll
+C:\Users\Ahmed.Ragab\Eng\dotnet\pathtest\obj\Debug\netcoreapp2.1\pathtest.pdb
